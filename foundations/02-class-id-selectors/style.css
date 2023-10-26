@@ -1,0 +1,19 @@
+.p1 {
+    background-color: rgb(243, 122, 122);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.p2 {
+    font-size: 24px;
+}
+
+#div1 {
+    color: rgb(0, 0, 287);
+    font-size: 36px;
+}
+
+#div2 {
+    background-color: rgb(133, 212, 133);
+    font-size: 24px;
+    font-weight: bold;
+}
